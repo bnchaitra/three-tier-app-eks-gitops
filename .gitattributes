@@ -1,0 +1,6 @@
+* text=auto eol=lf
+* .sh text eol=lf
+* .png binary
+docs/** linguistic-documentation
+k8s/** linguistic-language=YAML
+vendor/** linguistic-vendored
